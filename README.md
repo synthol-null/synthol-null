@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I am known in the community as **synthol-null** — a developer focused on **software engineering, cybersecurity, reverse engineering and modern web development**.
+I am known in the community as **synthol** — a developer focused on **software engineering, cybersecurity, reverse engineering and modern web development**.
 
 My work revolves around understanding how software and infrastructure work internally, researching their security properties, and building reliable tools around them.
 
