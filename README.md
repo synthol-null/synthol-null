@@ -1,17 +1,17 @@
-# 👋 Hey, I'm **synthol1g**
+# 👋 Hey, I'm **synthol-null**
 
 ### Software Engineer · Cybersecurity Researcher · Reverse Engineer
 
 <p align="left">
-  <a href="https://github.com/symkinet">
-    <img src="https://img.shields.io/github/followers/symkinet?label=Followers&style=flat-square&logo=github&color=6e40c9" />
+  <a href="https://github.com/synthol-null">
+    <img src="https://img.shields.io/github/followers/synthol-null?label=Followers&style=flat-square&logo=github&color=6e40c9" />
   </a>
-  <a href="https://github.com/symkinet">
-    <img src="https://img.shields.io/github/stars/symkinet?label=Stars&style=flat-square&logo=github&color=6e40c9" />
+  <a href="https://github.com/synthol-null">
+    <img src="https://img.shields.io/github/stars/synthol-null?label=Stars&style=flat-square&logo=github&color=6e40c9" />
   </a>
 </p>
 
-I am known in the community as **synthol1g** — a developer focused on **software engineering, cybersecurity, reverse engineering and modern web development**.
+I am known in the community as **synthol-null** — a developer focused on **software engineering, cybersecurity, reverse engineering and modern web development**.
 
 My work revolves around understanding how software and infrastructure work internally, researching their security properties, and building reliable tools around them.
 
@@ -29,15 +29,15 @@ I also build modern frontend and backend applications, combining software engine
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=symkinet&show_icons=true&hide_border=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=synthol-null&show_icons=true&hide_border=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symkinet&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthol-null&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=symkinet&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=777777" />
+<img src="https://streak-stats.demolab.com?user=synthol-null&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=777777" />
 
 </div>
 
@@ -171,8 +171,8 @@ The project explores **multi-layered code transformation, runtime protection and
 
 <div align="center">
 
-<a href="https://github.com/symkinet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=symkinet&repo=Pyraph&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9" />
+<a href="https://github.com/synthol-null">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=synthol-null&repo=Pyraph&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9" />
 </a>
 
 </div>
