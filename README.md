@@ -21,7 +21,7 @@ I also build modern frontend and backend applications, combining software engine
 
 > **Build. Analyze. Research. Secure.**
 
-📫 Discord: **symkinet**
+📫 Discord: **fraudawka**
 
 ---
 
